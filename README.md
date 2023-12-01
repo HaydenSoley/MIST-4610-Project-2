@@ -7,7 +7,7 @@
    
 5. Ashley Potts: https://github.com/ashley-potts/MIST-4610-Project-2
    
-7. Hayden Soley:
+7. Hayden Soley: https://github.com/HaydenSoley/MIST-4610-Project-2
    
 9. Liam Kilner: https://github.com/liamkilner/Project-2-SQL
 
